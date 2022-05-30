@@ -35,7 +35,7 @@ async def kickroleless(ctx: commands.Context):
   
 @client.event
 async def on_message(message):
-    if "<@979102991644754101>" in message.content:
+    if "<@bot_user_id>" in message.content:
         welcome = f"""**__👋 I'm Bot Kicker!__**
       
 **⚠️⚠️WARNING!! MY ONLY COMMAND WILL DELETE ALL MEMBERS WITHOUT A ROLE!!**
