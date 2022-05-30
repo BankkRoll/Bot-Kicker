@@ -1,0 +1,2 @@
+# bot--kicker
+⚠️⚠️WARNING!!!!⚠️⚠️ I WILL KICK ALL MEMBERS CONTAINING NO ROLE!!!
